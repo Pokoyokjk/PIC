@@ -11,6 +11,7 @@ Este proyecto aborda la detección y clasificación automática de cavidades en 
 El sistema ha sido diseñado para funcionar tanto en **modo offline** (procesado de imágenes) como en **tiempo real**, evitando el uso de modelos de aprendizaje profundo y priorizando soluciones explicables y eficientes.
 
 ## Estructura del repositorio
+```text
 ├── .venv/
 │ └── Entorno virtual de Python
 │
@@ -41,6 +42,7 @@ El sistema ha sido diseñado para funcionar tanto en **modo offline** (procesado
 │
 ├── *.ipynb
 │ └── Notebooks de desarrollo, pruebas y análisis intermedios
+```
 
 ## Métodos implementados
 ### Detección basada en celdas

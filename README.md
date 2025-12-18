@@ -1,0 +1,1 @@
+Este repositorio contiene el código desarrollado para la detección y clasificación automática de cavidades en blísteres farmacéuticos mediante técnicas clásicas de visión por computador. El sistema permite identificar cavidades vacías, completas y rotas/incompletas, tanto en modo offline como en tiempo real.
